@@ -1,7 +1,7 @@
 <!-- Imagem de Perfil -->
 
 <p align="center">
-  <img src="profile.png" alt="Foto de perfil" width="150" style="border-radius: 50%;">
+  <img src="channel.jpg" alt="Foto de perfil" width="150" style="border-radius: 50%;">
 </p>
 
 # Bernardo Sandrini
