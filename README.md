@@ -3,14 +3,15 @@
 <p align="center">
   <img src="channel.jpg" alt="Foto de perfil" width="150" style="border-radius: 50%;">
 </p>
-
 # Bernardo Sandrini
 
 Olá! Me chamo **Bernardo Sandrini**, tenho **11 anos** e sou um desenvolvedor solo de jogos e aplicativos desde 2022. Atualmente, trabalho em alguns projetos interessantes como o **QuiosqueOS**, os **Servidores da Água Jump Studios** (minha própria empresa), e também um aplicativo de **quiz de amizade**, tudo com foco em criatividade e aprendizado constante.
 
 ## QuiosqueOS
 
-<img src="NewSprite17.png" alt="QuiosqueOS" width="400"/>
+<p align="center">
+  <img src="NewSprite17.png" alt="QuiosqueOS" width="200"/>
+</p>
 
 O **QuiosqueOS** é o meu projeto mais evoluído e ambicioso até agora. Ele é um sistema operacional alternativo e interativo, projetado para simular um ambiente leve, funcional e customizável para uso educacional, criativo ou simplesmente por diversão. É uma vitrine de tudo que aprendi sobre desenvolvimento até agora, com foco em design limpo, responsividade e integração entre apps.
 
