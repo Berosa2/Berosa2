@@ -10,7 +10,7 @@ Olá! Me chamo **Bernardo Sandrini**, tenho **11 anos** e sou um desenvolvedor s
 
 ## QuiosqueOS
 
-<img src="quiosque.png" alt="QuiosqueOS" width="400"/>
+<img src="NewSprite17.png" alt="QuiosqueOS" width="400"/>
 
 O **QuiosqueOS** é o meu projeto mais evoluído e ambicioso até agora. Ele é um sistema operacional alternativo e interativo, projetado para simular um ambiente leve, funcional e customizável para uso educacional, criativo ou simplesmente por diversão. É uma vitrine de tudo que aprendi sobre desenvolvimento até agora, com foco em design limpo, responsividade e integração entre apps.
 
